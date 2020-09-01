@@ -12,3 +12,7 @@ There have some learning materials, my own practices, project, I will list these
   * 8.EnsembleLearning
   * 9.UnsupervisedLearning
 ## Project
+  Movie Recommended system
+  Used Algorithm
+  * KNN
+  * ALS
