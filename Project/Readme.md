@@ -11,6 +11,6 @@
 	   in the .py file, it looks like this below. All you need is to change the file path 
   * 3.Run the code and you will see the result in standard output
 	#enter your file path and movie title here:
-	rating_file_path = 'C:/users/z5233940/Desktop/file/ratings.csv'
-	movie_file_path = 'C:/users/z5233940/Desktop/file/movies.csv'
+	rating_file_path = 'Desktop/file/ratings.csv'
+	movie_file_path = 'Desktop/file/movies.csv'
 
